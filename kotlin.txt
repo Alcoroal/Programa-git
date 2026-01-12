@@ -1,0 +1,2 @@
+echo "Nombre: Alvaro Cordoba Rocha"
+echo "Correo: cordobaalvaro@outlook.com"
